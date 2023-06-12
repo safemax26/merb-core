@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Allow Annotator PIL.Image inputs (#8397)
