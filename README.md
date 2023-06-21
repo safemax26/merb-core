@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add quantization support to TensorFlow.js converter (#7008)
