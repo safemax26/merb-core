@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
