@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
