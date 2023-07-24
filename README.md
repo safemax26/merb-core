@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fixed RTDETR GFLOPs bug (#7309)
