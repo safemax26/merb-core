@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Explorer with LanceDB, Actions and Docs updates (#7487)
