@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add YOLOv8 LibTorch C++ inference example (#7090)
