@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
