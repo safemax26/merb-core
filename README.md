@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Docs partial mdformat improvements (#7378)
