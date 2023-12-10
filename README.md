@@ -1,1 +1,1 @@
-fix predict with class filter
+Explorer Cleanup (#7364)
