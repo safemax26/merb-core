@@ -1,1 +1,1 @@
-add logs
+Add docs guide terminal images (#8819)
