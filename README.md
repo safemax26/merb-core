@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add docs guide terminal images (#8819)
