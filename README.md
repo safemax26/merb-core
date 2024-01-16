@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
