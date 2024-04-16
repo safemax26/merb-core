@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
