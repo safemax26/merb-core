@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Replace onnx2tf usage from CLI to Python (#8429)
