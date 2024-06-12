@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
