@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
