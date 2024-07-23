@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+OBB: Fix plot_images (#7592)
