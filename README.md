@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Replace onnx2tf usage from CLI to Python (#8429)
