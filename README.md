@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+OBB: Fix plot_images (#7592)
